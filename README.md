@@ -16,8 +16,9 @@ I'm a computer vision enthusiast with a deep passion for data science and roboti
 ### Machine Learning Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) &nbsp; ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) &nbsp; ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
+
 ### Computer Vision Frameworks
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=none&logoColor=white) ![Segment Anything](https://img.shields.io/badge/Segment%20Anything-008000?style=for-the-badge&logo=none&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=none&logoColor=white) ![Segment Anything](https://img.shields.io/badge/Segment%20Anything-008000?style=for-the-badge&logo=meta&logoColor=white)
 
 
 ### Operating System
