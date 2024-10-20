@@ -1,12 +1,20 @@
 # Hi, im Jamie ⛰️
-I'm a computer vision enthusiast with a deep passion for data science and robotics. Currently, I'm focused on cutting-edge 3D reconstruction techniques, using Neural Radiance Fields (NeRFs) and Gaussian Splats derived from descent sequences. With a strong foundation in machine learning and a background as a mechanical design engineer. I am committed to leveraging my skills to create innovative solutions in the fields of robotics and artificial intelligence.
+I’m a passionate Data Scientist / Machine Learning Engineer with a strong foundation in machine learning, signal processing, and computer vision. My focus is on solving complex, multidisciplinary problems using both traditional and modern machine learning techniques.
+
+With experience as a Research Engineer and hands-on expertise in various machine learning methods, I'm always exploring new applications. My interests span diverse fields, including fraud detection in banking, biomarker analysis in biology, and sports technology. I’m particularly excited about the potential of data to drive impactful solutions across industries.
+
+When I’m not deep in data, you’ll find me hitting the trails for a run or scaling the nearest crag 🧗‍♂️
+
 
 ## Skills
 
-- **Machine Learning**: Comprehensive experience with various ML techniques, from decision trees and support vector machines to ensemble methods and RCNNs.
-- **Deep Learning**: Proficient in designing, training, and deploying convolutional neural networks for complex vision and audio tasks.
-- **Computer Vision**: Expertise in image processing, calibration, 3D reconstruction, and feature extraction, utilising state-of-the-art techniques.
-- **ROS (Robot Operating System)**: Skilled in developing and integrating robotic systems, ensuring seamless hardware-software interaction.
+- **Data Manipulation & SQL**: Strong experience in efficiently handling large datasets, performing data manipulation, and optimising queries using SQL, Pandas, and NumPy.
+- **Data Analysis & Feature Engineering**: Proficient in exploratory data analysis, dimensionality reduction (e.g., PCA), and feature engineering to enhance model performance and interpretability.
+- **Machine Learning**: Extensive experience with a variety of ML techniques, including decision trees, support vector machines, XGBoost, and ensemble methods for predictive modeling and classification tasks.
+- **Deep Learning**: Skilled in designing, training, and optimising neural networks using PyTorch, TensorFlow, and Keras, with experience in hyperparameter tuning using Ray Tune.
+- **Computer Vision**: Expertise in image processing, feature extraction, and object detection, utilising OpenCV, YOLOv8, and segment-anything models for complex vision tasks.
+
+
 
 ## Languages
 
