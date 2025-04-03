@@ -1,9 +1,5 @@
 # Hi, im Jamie ⛰️
-I’m a Data Scientist / Machine Learning Engineer with a strong foundation in mathematical modelling, signal processing, and computer vision. My focus is on solving complex, multidisciplinary problems using both traditional and modern machine learning techniques.
-
-With experience as a Research Engineer and hands-on expertise in various machine learning methods, I'm always exploring new applications. My interests span diverse fields, including fraud detection in banking, biomarker analysis in biology, and sports technology.
-
-When I’m not deep in data, you’ll find me hitting the trails for a run or scaling the nearest crag 🧗‍♂️
+I’m a Data Scientist with a strong foundation in mathematical modelling, signal processing, and computer vision. My focus is on solving complex, multidisciplinary problems using both traditional and modern machine learning techniques.
 
 ## Languages
 
